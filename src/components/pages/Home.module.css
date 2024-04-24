@@ -1,0 +1,26 @@
+.bkgd {
+  /* width: 100vw;
+  height: 100vw; */
+  margin: none;
+  background-image: url("../images/greenginham.png");
+  min-height: 100%;
+  min-width: 1024px;
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.date {
+  /* text-align: center;
+  justify-self: center; */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
