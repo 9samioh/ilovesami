@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ilovesami/static/css/main.49dcdbdf.css",
+    "main.js": "/ilovesami/static/js/main.d8892ccd.js",
+    "static/js/453.0cf63767.chunk.js": "/ilovesami/static/js/453.0cf63767.chunk.js",
+    "static/media/greenginham.png": "/ilovesami/static/media/greenginham.b7175e4528fd1c65a36f.png",
+    "index.html": "/ilovesami/index.html",
+    "main.49dcdbdf.css.map": "/ilovesami/static/css/main.49dcdbdf.css.map",
+    "main.d8892ccd.js.map": "/ilovesami/static/js/main.d8892ccd.js.map",
+    "453.0cf63767.chunk.js.map": "/ilovesami/static/js/453.0cf63767.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49dcdbdf.css",
+    "static/js/main.d8892ccd.js"
+  ]
+}
